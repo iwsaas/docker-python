@@ -1,4 +1,4 @@
-FROM iwaas/centos:7.1
+FROM iwsaas/centos:7.1
 MAINTAINER Henry Huang <henry.s.huang@gmail.com>
 
 RUN yum -y update; yum clean all
